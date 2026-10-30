@@ -1,0 +1,7 @@
+telethon
+requests
+qrcode
+gTTS
+yt-dlp
+Pillow
+speedtest-cli
